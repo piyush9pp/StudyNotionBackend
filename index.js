@@ -32,7 +32,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://studynotionbackend-1hfi.onrender.com"
+      "https://delicate-macaron-e8603b.netlify.app/"
     ],
     credentials: true,
   })
